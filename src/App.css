@@ -1,0 +1,53 @@
+.btn-link {
+    text-decoration: underline;
+}
+
+.btn-outline-primary {
+    color: black;
+    border-color: black;
+    background: lightgray;
+    border-radius: 0;
+    width: 150px;
+}
+
+ul {
+    padding-left: 0 !important;
+}
+
+ul li {
+    list-style: none;
+}
+
+.img-holder {
+    height: 600px;
+}
+
+.img-holder .img-holder-inner {
+    display: block;
+    width: auto;
+    max-height: 100%;
+}
+
+.form-control {
+    display: inline-block;
+    max-width: 300px;
+}
+
+.category-frame {
+    display: block;
+    width: 100%;
+}
+
+.cat-container {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.category-count {
+    padding-left: 20px;
+}
+
+.catlist-img {
+    max-width: 350px;
+    height: 350px;
+}
